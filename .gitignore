@@ -4,10 +4,6 @@ __pycache__/
 *.pyc
 *.spec
 *.zip
-*.PDF
-MUHAMMEDEMİNKORKUNÇ_*.pdf
-MuhammedEminKorkunç_*.pdf
-proje4_*.pdf
 watermark*.py
 sign_*.py
 /tmp/clean_ai_wm.pdf
